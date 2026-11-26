@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Gray arena custom",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/styrofoamguy45/my-fleasion-config/main/grods.png"
+    }
+  ]
+}
